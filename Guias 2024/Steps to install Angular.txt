@@ -1,0 +1,20 @@
+Steps
+0. Open VisualStudio Code.
+1. Visit this to check settings.
+
+URL: https://gist.github.com/Klerith/4816679624c1cb528f8e05d902fd7cff
+
+2. After Angular last update
+https://angular.dev/
+
+3.At the fist time that we want to create a traditional Angular project with modules,
+we need always to put this command that create Angular projects as the old and 
+traditional way:
+
+COMMAND:
+First Step -> ng new mi-primera-app --standalone false
+Second Step -> Server-Side Rendering (SSR)? N (To work the traditional way of Angular 
+porjects).
+
+END - That's all the different settings that we need to put it to create 
+a Traditional Angular project.
